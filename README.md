@@ -18,3 +18,8 @@ This repository contains data analysis work completed as part of a Forage Data S
 
 ## Tools Used
 - Microsoft Excel
+
+## Key Insights
+- Cleaned dataset improved usability by removing inconsistencies
+- Structured data enabled clearer pattern identification
+- Highlighted importance of preprocessing before analysis
